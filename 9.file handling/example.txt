@@ -1,0 +1,7 @@
+hello world
+this is new line
+appended first line
+.second line
+appended 
+first line
+.second line
