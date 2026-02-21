@@ -18,6 +18,7 @@ Deployment & MLOps
 
 
 📁 Repository Structure
+'''bash
 📦 DATA-SCIENCE-PORTFOLIO
 │
 ├── 🐍 Python Core
@@ -33,7 +34,7 @@ Deployment & MLOps
 ├── ⚙ MLOps
 │
 └── 🚀 Projects
-
+'''
 
 Data structures
 Functions
