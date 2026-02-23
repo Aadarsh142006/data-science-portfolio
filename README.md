@@ -18,21 +18,23 @@ Deployment & MLOps
 
 
 📁 Repository Structure
-data-science-portfolio/
+'''bash
+📦 DATA-SCIENCE-PORTFOLIO
 │
-├── 📂 python-core/
-│   ├── 4. inbuilt datastructures/
-│   ├── 5. functions/
-│   ├── 8. modules/
-│   └── 9. file handling/
+├── 🐍 Python Core
 │
-├── 📂 statistics/
-├── 📂 machine-learning/
-├── 📂 deep-learning/
-├── 📂 nlp/
-├── 📂 mlops/
-└── 📂 projects/
-
+├── 📊 Statistics
+│
+├── 🤖 Machine Learning
+│
+├── 🧠 Deep Learning
+│
+├── 🗣 NLP
+│
+├── ⚙ MLOps
+│
+└── 🚀 Projects
+'''
 
 Data structures
 Functions
